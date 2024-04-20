@@ -1,0 +1,122 @@
+#body{
+    background-image: url("bgimg.jpg");
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+}
+.div1{
+    margin: 50px;
+    padding: 45px;
+}
+#div2{
+    margin: 15px;
+    padding: 100px;
+    border: 100px;
+}
+#btn{
+    border-radius: 15px;
+    background-color: rgb(174, 248, 137);
+    padding: 10px;
+    margin: 5px 15px 15px 15px;
+    border-color: rgb(36, 156, 0);
+}
+#btn1{
+    border-radius: 15px;
+    color: darkblue;
+    font-size: 20px;
+    background-color: rgb(137, 222, 248);
+    padding: 7px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 2px;
+    border-color: rgb(156, 0, 112);
+}
+#success{
+    font-size: 50px;
+    color: rgb(157, 134, 179);
+    margin: 260px;
+}
+.p2{
+    font-size: large;
+}
+#div3{
+    background-color: rgb(253, 251, 204);
+}
+#div4{
+    background-color: rgb(216, 253, 204);
+}
+.c2{
+    height: 50px;
+    width: 50px;
+}
+.div3{
+    margin: 30px 220px 30px 220px;
+}
+#txt1 {
+    position: absolute;
+    top: 80px;
+    left: 230px;
+    font-size: 25px;
+    color:black;
+}
+#txt2 {
+    position: absolute;
+    top: 80px;
+    left: 750px;
+    font-size: 25px;
+    color:rgb(255, 0, 123);
+}
+#txt3 {
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+#txt4 {
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+#frm{
+    margin: 60px 550px 100px 550px;
+    border-width: 5px;
+    padding:10px;
+    border-color: black;
+}
+#th1{
+    margin-left: 500px;
+}
+#pay{
+    background-color: red;
+    font: 20px bold;
+    color: white;
+    border-radius: 30%;
+    border-color: white;
+    padding: 5px;
+}
+#joyful{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5%;
+}
+#tender{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5%;
+}
+#stressed{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5%;
+}
+#excited{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5%;
+}
